@@ -8,7 +8,9 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
 
 #### 1.1 Project objective
-Application under test: http://docs.opencart.com/en-gb/introduction/. The focus will be only on **OpenCart - Catalog/Products** 
+Application under test: http://docs.opencart.com/en-gb/introduction/
+
+The focus will be only on **OpenCart - Catalog/Products** 
 
 Application documentation: 
 http://docs.opencart.com/en-gb/catalog/product/
@@ -23,6 +25,7 @@ All the features of Catalog - Products which were defined in business requiremen
 - API testing 
 
 The below user story was created in Jira and describes functional specifications of the Catalog - Products
+
 *Screenshots din Jira cu user story-ul
 
 #### 1.3 Functionalities and tests out of scope
@@ -72,8 +75,60 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Queries in DB will be done in MySQL
 
 #### 2.4 Test implementation
+Verify if the following elements are ready before test execution:
+- Test environment is up and running: https://demo.opencart.com/admin/ 
+- Access to test environment is given: 
+username administration: demo
+password: demo
+- Cycle summary was created 
+- Test cases were added to the cycle summary 
+- Postman collection with the API methods was created 
+- Authorization token was created accessing the API and it is valid 
+
 #### 2.5 Test execution
+- Test cases are executed on the created cycle summary 
+- Bugs have been created based on the failed test cases. The complete bug reports can be found here: 
+*se poate pune link catre un fisier cu bug reports in Github 
+- API tests are executed based on the checklist (requirements)
+- Full regression pack is executed after changes made to the application 
+
 #### 2.6 Test closure
+All exit criteria were met as mentioned in the Test Planning section (2.1)
+The traceability matrix was generated to demonstrate the business requirements coverage
+Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 30
+There are still 3 opened defects but they have low priority
+
 #### 2.7 Test monitoring and control
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
-
+## 3. Test Deliverables
+#### 3.1 Test plan
+The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
+#### 3.2 Test conditions
+The following test conditions were created: 
+-screenshot Jira 
+#### 3.3 Test cases
+The following test cases were created: 
+-screenshot Jira 
+#### 3.4 Daily test summary reports
+The daily report was generated: 
+-screenshot Jira
+#### 3.5 Traceability matrix
+The traceability matrix was generated: 
+-screenshot Jira 
+#### 3.6 Test case results
+The test cases results:
+-pdf exported from Jira with all test cases and results
+#### 3.7 Bugs report
+The bug reports exported from Jira:
+-pdf exported from Jira with all bug reports
+#### 3.8 Test completion report
+The test completion report generated from Jira:
+-screenshot with test completion report 
+#### 3.9 Schedule
+A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
+| Task  | Date  | Team member | 
+|---|---|---|
+| Run functional test cases for Job submenu of Admin module| 10.05.2023 | Anca Pintilie |
+| Run GUI test cases for Job submenu of Admin module| 20.06.2023| Anca Pintilie |
+| Summary and Report | 08.05.2023 | Anca Pintilie |
