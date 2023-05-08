@@ -4,6 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 #### The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
 
+# Testing Section
 ## 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
 
@@ -74,9 +75,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 2.4 Test implementation
 Verify if the following elements are ready before test execution:
 - Test environment is up and running: https://demo.opencart.com/admin/ 
-- Access to test environment is given: 
-username administration: demo
-password: demo
+- Access to test environment is given:
+
+  username administration: demo
+
+  password: demo
 - Cycle summary was created 
 - Test cases were added to the cycle summary 
 - Postman collection with the API methods was created 
@@ -126,6 +129,7 @@ The test completion report generated from Jira:
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
 | Task  | Date  | Team member | 
 |---|---|---|
-| Run functional test cases for Job submenu of Admin module| 10.05.2023 | Anca Pintilie |
-| Run GUI test cases for Job submenu of Admin module| 20.06.2023| Anca Pintilie |
+| Run functional test cases for Product submenu of Admin module| 10.05.2023 | Anca Pintilie |
+| Run GUI test cases for Product submenu of Admin module| 20.06.2023| Anca Pintilie |
 | Summary and Report | 08.05.2023 | Anca Pintilie |
+# SQL Section (MySQL)
