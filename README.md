@@ -22,8 +22,7 @@ All the features of Catalog - Products which were defined in business requiremen
 - GUI testing
 - API testing 
 
-The below user story was created in Jira and describes functional specifications of the Catalog - Products
-Screenshots din Jira cu user story-ul
+The below user story was created in Jira and describes functional specifications of the Catalog - Products. Screenshots din Jira cu user story-ul
 
 #### 1.3 Functionalities and tests out of scope
 - Non-functional testing like stress, performance, integrations of the dependents module with other modules, compatibility testing with multiple browsers is beyond scope of this project. 
