@@ -16,8 +16,6 @@ Application documentation:
 http://docs.opencart.com/en-gb/catalog/product/
 
 Tools: Jira, Postman, MySQL 
-* If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
-
 #### 1.2 Functionalities in scope
 All the features of Catalog - Products which were defined in business requirements need to be tested:
 - Functional testing
@@ -25,8 +23,7 @@ All the features of Catalog - Products which were defined in business requiremen
 - API testing 
 
 The below user story was created in Jira and describes functional specifications of the Catalog - Products
-
-*Screenshots din Jira cu user story-ul
+Screenshots din Jira cu user story-ul
 
 #### 1.3 Functionalities and tests out of scope
 - Non-functional testing like stress, performance, integrations of the dependents module with other modules, compatibility testing with multiple browsers is beyond scope of this project. 
