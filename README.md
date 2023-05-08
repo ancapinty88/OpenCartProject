@@ -3,7 +3,7 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 #### The final project will be split into 2 sections: [Testing section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#testing-section) and [SQL section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#sql-section-mysql)
-# Testing Section
+# Testing section
 ## 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
 
@@ -131,4 +131,4 @@ A test schedule includes the testing steps or tasks, the target start and end da
 | Run functional test cases for Product submenu of Admin module| 10.05.2023 | Anca Pintilie |
 | Run GUI test cases for Product submenu of Admin module| 20.06.2023| Anca Pintilie |
 | Summary and Report | 08.05.2023 | Anca Pintilie |
-# SQL Section (MySQL)
+# SQL section (MySQL)
