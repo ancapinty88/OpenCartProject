@@ -2,8 +2,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-#### The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
-
+#### The final project will be split into 2 sections: [Testing section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#testing-section) and [SQL section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#sql-section-mysql)
 # Testing Section
 ## 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
