@@ -10,10 +10,14 @@ This test plan document describes the strategies, process, workflows and methodo
 #### 1.1 Project objective
 Application under test: http://docs.opencart.com/en-gb/introduction/
 
-The focus will be only on **OpenCart - Catalog/Products** 
+The focus will be only on **OpenCart - Catalog/Products** (from Administration , **Shopping Cart Functionality** and **Checkout Functionality** (Store Front).
 
 Application documentation: 
+Administration:
 http://docs.opencart.com/en-gb/catalog/product/
+Store front:
+http://docs.opencart.com/en-gb/store-front/
+
 
 Tools: Jira, Postman, MySQL 
 #### 1.2 Functionalities in scope
