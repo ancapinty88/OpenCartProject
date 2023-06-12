@@ -16,6 +16,7 @@ The focus will be on:
 **Checkout Functionality** (Store Front).
 
 Application documentation: 
+
 Administration:
 http://docs.opencart.com/en-gb/catalog/product/
 
