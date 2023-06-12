@@ -11,8 +11,11 @@ This test plan document describes the strategies, process, workflows and methodo
 Application under test: http://docs.opencart.com/en-gb/introduction/
 
 The focus will be on: 
+
 **OpenCart - Catalog/Products** (Administration)
+
 **Shopping Cart Functionality** (Store Front)
+
 **Checkout Functionality** (Store Front).
 
 Application documentation: 
