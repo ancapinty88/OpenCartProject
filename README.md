@@ -12,11 +12,11 @@ Application under test: http://docs.opencart.com/en-gb/introduction/
 
 The focus will be on: 
 
-**OpenCart - Catalog/Products** (Administration)
+- **OpenCart - Catalog/Products** (Administration)
 
-**Shopping Cart Functionality** (Store Front)
+- **Shopping Cart Functionality** (Store Front)
 
-**Checkout Functionality** (Store Front).
+- **Checkout Functionality** (Store Front).
 
 Application documentation: 
 
