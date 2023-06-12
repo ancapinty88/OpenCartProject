@@ -20,10 +20,10 @@ The focus will be on:
 
 Application documentation: 
 
-Administration:
+- Administration:
 http://docs.opencart.com/en-gb/catalog/product/
 
-Store front:
+- Store Front:
 http://docs.opencart.com/en-gb/store-front/
 
 
