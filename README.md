@@ -85,18 +85,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 2.4 Test implementation
 Verify if the following elements are ready before test execution:
 
-  *Administration*: 
 
-- Test environment is up and running: https://demo.opencart.com/admin/ 
-- Access to test environment is given:
+- Test environment is up and running:
+
+     *Administration*:  https://demo.opencart.com/admin/ 
+     *Store Front*: Test enviroment is up and running: https://demo.opencart.com
+     
+- Access to test environment is given (Administration:
 
   username administration: demo
 
   password: demo
-  
-  *Store Front*:
-
-- Test enviroment is up and running: https://demo.opencart.com
 
 - Cycle summary was created 
 - Test cases were added to the cycle summary 
