@@ -27,7 +27,7 @@ http://docs.opencart.com/en-gb/catalog/product/
 http://docs.opencart.com/en-gb/store-front/
 
 
-Tools: Jira, Postman, MySQL 
+Tools: Jira, Zephyr squad 
 #### 1.2 Functionalities in scope
 All the features of Catalog - Products which were defined in business requirements need to be tested:
 - Functional testing
