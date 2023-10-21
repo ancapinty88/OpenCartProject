@@ -131,14 +131,20 @@ The following test cases were created:
 The daily report was generated: 
 -screenshot Jira
 #### 3.5 Traceability matrix
-The traceability matrix was generated: 
--screenshot Jira 
+Test execution chart was generated, the final report shows that a number of 3 tests have failed of a total of 34
+A number of 34 test cases were planned for execution and all of them were executed
+A number of 3 total bugs were found, from which the priority is: 2 are high and 1 is medium
+The traceability matrix was generated: pdf
+<img width="924" alt="Screenshot 2023-10-17 at 19 28 33" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/b0b007b3-90ae-4475-859d-238b9f8659de">
+
+
 #### 3.6 Test case results
 The test cases results:
 -pdf exported from Jira with all test cases and results
 #### 3.7 Bugs report
 The bug reports exported from Jira:
--pdf exported from Jira with all bug reports
+[BugsReport.pdf](https://github.com/ancapinty88/OpenCartPoject/files/13061241/BugsReport.pdf)
+
 #### 3.8 Test completion report
 The test completion report generated from Jira:
 -screenshot with test completion report 
