@@ -2,7 +2,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-#### The final project will be split into 2 sections: [Testing section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#testing-section) and [SQL section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#sql-section-mysql)
+#### The final project will be split into 2 sections: [Testing section](https://github.com/ancapinty88/OpenCartPoject/edit/main/README.md#testing-section)
 # Testing section
 ## 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
@@ -70,7 +70,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All business requirements have been covered by test cases 
 - All business requirements have been met 
 ##### Risks:
-###### *Project risks* and ###### *Product risks* : 
+###### *Project risks* and *Product risks* : 
 
 <img width="871" alt="Screenshot 2023-10-20 at 20 29 06" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/edafb81b-58f5-4490-ae61-1f225097117f">
 
@@ -83,8 +83,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 - Functional test cases will be created in Jira 
 - GUI test cases will be created in Jira 
-- API test case will be created in Postman 
-- Queries in DB will be done in MySQL
 
 #### 2.4 Test implementation
 Verify if the following elements are ready before test execution:
@@ -103,21 +101,18 @@ Verify if the following elements are ready before test execution:
   password: demo
 
 - Cycle summary was created 
-- Test cases were added to the cycle summary 
-- Postman collection with the API methods was created 
-- Authorization token was created accessing the API and it is valid 
+- Test cases were added to the cycle summary  
 
 #### 2.5 Test execution
 - Test cases are executed on the created cycle summary 
 - Bugs have been created based on the failed test cases. The complete bug reports can be found here: 
 *se poate pune link catre un fisier cu bug reports in Github 
-- API tests are executed based on the checklist (requirements)
-- Full regression pack is executed after changes made to the application 
+
 
 #### 2.6 Test closure
 All exit criteria were met as mentioned in the Test Planning section (2.1)
 The traceability matrix was generated to demonstrate the business requirements coverage
-Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 30
+Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 34
 There are still 3 opened defects but they have low priority
 
 #### 2.7 Test monitoring and control
