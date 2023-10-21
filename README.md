@@ -32,9 +32,12 @@ Tools: Jira, Zephyr squad
 All the features of Catalog - Products which were defined in business requirements need to be tested:
 - Functional testing
 - GUI testing
-- API testing 
+ 
 
-The below user story was created in Jira and describes functional specifications of the Catalog - Products. Screenshots din Jira cu user story-ul
+The below user stories were created in Jira and describes functional specifications of the Admin - Products and Product Category and Front Store - Shopping Cart Functionality and Checkout Functionality.
+<img width="510" alt="Screenshot 2023-10-21 at 18 47 19" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/9db9eeec-e428-456a-bd17-f3079c0bc7c5">
+
+
 
 #### 1.3 Functionalities and tests out of scope
 - Non-functional testing like stress, performance, integrations of the dependents module with other modules, compatibility testing with multiple browsers is beyond scope of this project. 
