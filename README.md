@@ -35,6 +35,8 @@ All the features of Catalog - Products which were defined in business requiremen
  
 
 The below user stories were created in Jira and describes functional specifications of the Admin - Products and Product Category and Front Store - Shopping Cart Functionality and Checkout Functionality.
+
+
 <img width="510" alt="Screenshot 2023-10-21 at 18 47 19" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/9db9eeec-e428-456a-bd17-f3079c0bc7c5">
 
 
@@ -68,18 +70,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All business requirements have been covered by test cases 
 - All business requirements have been met 
 ##### Risks:
-###### *Project risks* :
-- Lack of experience of QA team
-- Lack of tools, short deadline for Jira and Zephyr Squad
-- Unavailability of OrangeHRM demo environment
-###### *Product risks* : 
-- Validation constraints on the fields might be too restrictive to the end user
+###### *Project risks* and ###### *Product risks* : 
+
+<img width="871" alt="Screenshot 2023-10-20 at 20 29 06" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/edafb81b-58f5-4490-ae61-1f225097117f">
+
 
 #### 2.2 Test analysis
 - Analyze the business requirements to make sure that we have all the details to create the test conditions 
 - Write test conditions that will be tested in out test process 
 
 #### 2.3 Test design
+
 - Functional test cases will be created in Jira 
 - GUI test cases will be created in Jira 
 - API test case will be created in Postman 
