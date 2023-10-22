@@ -105,8 +105,7 @@ Verify if the following elements are ready before test execution:
 
 #### 2.5 Test execution
 - Test cases are executed on the created cycle summary 
-- Bugs have been created based on the failed test cases. The complete bug reports can be found here: 
-*se poate pune link catre un fisier cu bug reports in Github 
+- Bugs have been created based on the failed test cases 
 
 
 #### 2.6 Test closure
