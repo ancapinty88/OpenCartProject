@@ -151,7 +151,8 @@ The bug reports exported from Jira:
 
 #### 3.8 Test completion report
 The test completion report generated from Jira:
--screenshot with test completion report 
+[TestCompletitionReport.pdf](https://github.com/ancapinty88/OpenCartPoject/files/13063029/TestCompletitionReport.pdf)
+
 #### 3.9 Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
 | Task  | Date  | Team member | 
