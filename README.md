@@ -156,7 +156,13 @@ The test completion report generated from Jira:
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
 | Task  | Date  | Team member | 
 |---|---|---|
-| Run functional test cases for Product submenu of Admin module| 10.05.2023 | Anca Pintilie |
+| Run functional test cases for Product submenu of Admin module| 15.06.2023 | Anca Pintilie |
+| Run functional test cases for Product Category submenu of Admin module| 15.06.2023 | Anca Pintilie |
+| Run functional test cases for Shopping Cart Functionality of Front Store module| 15.06.2023 | Anca Pintilie |
+| Run functional test cases for Checkout Functionality submenu of Front Store module| 15.06.2023 | Anca Pintilie |
 | Run GUI test cases for Product submenu of Admin module| 20.06.2023| Anca Pintilie |
-| Summary and Report | 08.05.2023 | Anca Pintilie |
-# SQL section (MySQL)
+| Run GUI test cases for Product Category submenu of Admin module| 20.06.2023| Anca Pintilie |
+| Run GUI test cases for Shopping Cart Functionality of Front Store module| 20.06.2023| Anca Pintilie |
+| Run GUI test cases for Checkout Functionality submenu of Front Store module| 20.06.2023| Anca Pintilie |
+| Summary and Report | 20.10.2023 | Anca Pintilie |
+
