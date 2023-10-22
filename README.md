@@ -34,12 +34,9 @@ All the features of Catalog - Products which were defined in business requiremen
 - Functional testing
 - GUI testing
  
-
 The below user stories were created in Jira and describes functional specifications of the Admin - Products and Product Category and Front Store - Shopping Cart Functionality and Checkout Functionality.
 
-
 <img width="510" alt="Screenshot 2023-10-21 at 18 47 19" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/9db9eeec-e428-456a-bd17-f3079c0bc7c5">
-
 
 
 #### 1.3 Functionalities and tests out of scope
