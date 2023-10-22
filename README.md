@@ -131,7 +131,8 @@ The following test cases were created:
 
 #### 3.4 Daily test summary reports
 The daily report was generated: 
--screenshot Jira
+<img width="1120" alt="dailyTest" src="https://github.com/ancapinty88/OpenCartPoject/assets/132688930/1269582e-7807-44f4-84fc-46df98f90701">
+
 #### 3.5 Traceability matrix
 Test execution chart was generated, the final report shows that a number of 3 tests have failed of a total of 34
 A number of 34 test cases were planned for execution and all of them were executed
