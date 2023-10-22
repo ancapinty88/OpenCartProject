@@ -140,7 +140,8 @@ The traceability matrix was generated: pdf
 
 #### 3.6 Test case results
 The test cases results:
--pdf exported from Jira with all test cases and results
+[Test cases results.pdf](https://github.com/ancapinty88/OpenCartPoject/files/13062917/Test.cases.results.pdf)
+
 #### 3.7 Bugs report
 The bug reports exported from Jira:
 [BugsReport.pdf](https://github.com/ancapinty88/OpenCartPoject/files/13061241/BugsReport.pdf)
