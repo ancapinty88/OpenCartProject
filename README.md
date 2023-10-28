@@ -22,10 +22,10 @@ The focus will be on:
 Application documentation: 
 
 - Administration:
-http://docs.opencart.com/en-gb/catalog/product/
+[ Administration](http://docs.opencart.com/en-gb/catalog/product/)
 
 - Store Front:
-http://docs.opencart.com/en-gb/store-front/
+[Store Front ](http://docs.opencart.com/en-gb/store-front/)
 
 Tools: Jira, Zephyr squad 
 
@@ -122,11 +122,11 @@ The plan identifies the items to be tested, the features to be tested, the type 
 #### 3.2 Test conditions
 The following test conditions were created: 
  
-![testCases](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
+[testCases](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
 
 #### 3.3 Test cases
 The following test cases were created: 
-[Test Cases with steps.xlsx - Issues.pdf](https://github.com/ancapinty88/OpenCartProject/files/13196079/Test.Cases.with.steps.xlsx.-.Issues.pdf)
+[Test Cases with steps](https://github.com/ancapinty88/OpenCartProject/files/13196079/Test.Cases.with.steps.xlsx.-.Issues.pdf)
 
 
 #### 3.4 Daily test summary reports
