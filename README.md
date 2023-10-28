@@ -136,7 +136,9 @@ The daily report was generated:
 Test execution chart was generated, the final report shows that a number of 3 tests have failed of a total of 34
 A number of 34 test cases were planned for execution and all of them were executed
 A number of 3 total bugs were found, from which the priority is: 2 are high and 1 is medium
-The traceability matrix was generated: [Traceability Matrix.pdf](https://github.com/ancapinty88/OpenCartProject/files/13196163/Traceability.Matrix.pdf)
+
+The traceability matrix was generated:
+[Traceability Matrix.pdf](https://github.com/ancapinty88/OpenCartProject/files/13196163/Traceability.Matrix.pdf)
 
 
 #### 3.6 Test case results
