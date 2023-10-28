@@ -126,7 +126,8 @@ The following test conditions were created:
 
 #### 3.3 Test cases
 The following test cases were created: 
-![testCases](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/8232966e-a63a-4a33-afae-9db526eddd6c)
+[Test Cases with steps.xlsx - Issues.pdf](https://github.com/ancapinty88/OpenCartProject/files/13196079/Test.Cases.with.steps.xlsx.-.Issues.pdf)
+
 
 #### 3.4 Daily test summary reports
 The daily report was generated: 
