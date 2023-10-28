@@ -89,9 +89,9 @@ Verify if the following elements are ready before test execution:
 
 - Test environment is up and running:
 
-     *Administration*:  https://demo.opencart.com/admin/ 
+     *Administration*:  [ Administration](https://demo.opencart.com/admin/) 
      
-     *Store Front*: Test enviroment is up and running: https://demo.opencart.com
+     *Store Front*: [ Store Front](Test enviroment is up and running: https://demo.opencart.com)
      
 - Access to test environment is given (Administration):
 
@@ -122,7 +122,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 #### 3.2 Test conditions
 The following test conditions were created: 
  
-[testCases](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
+[Test Conditions](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
 
 #### 3.3 Test cases
 The following test cases were created: 
