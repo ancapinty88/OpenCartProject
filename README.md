@@ -62,7 +62,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 ##### Exit criteria:
 - All test cases have been executed 
 - The unresolved bugs/defects have low priority 
-- No detected major risks remained un-mitigated 
+- No detected major risks remained unmitigated 
 - All resolved bugs have been retested and approved by the testers  
 - All business requirements have been covered by test cases 
 - All business requirements have been met 
