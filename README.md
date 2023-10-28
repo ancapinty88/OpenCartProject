@@ -63,8 +63,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All test cases have been executed 
 - The unresolved bugs/defects have low priority 
 - No detected major risks remained un-mitigated 
-- All resolved bugs have been retested and approved by the testers
-- Regression testing have been ran and no major bugs detected  
+- All resolved bugs have been retested and approved by the testers  
 - All business requirements have been covered by test cases 
 - All business requirements have been met 
 ##### Risks:
