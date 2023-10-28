@@ -167,7 +167,7 @@ A test schedule includes the testing steps or tasks, the target start and end da
 | Run GUI test cases for Checkout Functionality submenu of Front Store module| 20.06.2023| Anca Pintilie |
 | Summary and Report | 20.10.2023 | Anca Pintilie |
 
-#### Conclusions
+## Conclusions
 Total number of Stories: 5
 Number of Stories covered by tests: 5
 Total number of written Tests: 34
