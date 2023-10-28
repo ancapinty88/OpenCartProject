@@ -7,7 +7,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for OpenCart.
 
 #### 1.1 Project objective
-Application under test: http://docs.opencart.com/en-gb/introduction/
+Application under test: [ Open Cart](http://docs.opencart.com/en-gb/introduction/)
 
 The focus will be on: 
 
