@@ -121,8 +121,7 @@ Various periodic reports were generated to reflect the current status of the tes
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 #### 3.2 Test conditions
 The following test conditions were created: 
- 
-[Test Conditions](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
+ [Test Conditions](https://github.com/ancapinty88/OpenCartPoject/assets/132688930/43516c73-10a5-4530-9d9c-3a0c72dbf8a1)
 
 #### 3.3 Test cases
 The following test cases were created: 
