@@ -125,7 +125,7 @@ The following test conditions were created:
 
 #### 3.3 Test cases
 The following test cases were created: 
-[Test Cases with steps](https://github.com/ancapinty88/OpenCartProject/files/13196079/Test.Cases.with.steps.xlsx.-.Issues.pdf)
+[Test Cases](https://github.com/ancapinty88/OpenCartProject/files/13196079/Test.Cases.with.steps.xlsx.-.Issues.pdf)
 
 
 #### 3.4 Daily test summary reports
