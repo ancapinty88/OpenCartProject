@@ -91,7 +91,7 @@ Verify if the following elements are ready before test execution:
 
      *Administration*:  [ Administration](https://demo.opencart.com/admin/) 
      
-     *Store Front*: [ Store Front](Test enviroment is up and running: https://demo.opencart.com)
+     *Store Front*: Test enviroment is up and running: [ Store Front](https://demo.opencart.com)
      
 - Access to test environment is given (Administration):
 
