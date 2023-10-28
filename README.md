@@ -167,3 +167,17 @@ A test schedule includes the testing steps or tasks, the target start and end da
 | Run GUI test cases for Checkout Functionality submenu of Front Store module| 20.06.2023| Anca Pintilie |
 | Summary and Report | 20.10.2023 | Anca Pintilie |
 
+#### Conclusions
+Total number of Stories: 5
+Number of Stories covered by tests: 5
+Total number of written Tests: 34
+Total number of Tests executed: 34
+Number of bugs identified: 3 (2 high severity bugs and 1 bug of medium severity and the user impact - average)
+
+The current results demonstrate a strong effect of the testing process, so the number of unsolved bugs is minimal and does not influence the good functionality of the application.
+
+The execution of the testing and the resolution of the defects met the originally established deadline.
+
+All test conditions were covered by the tests and the business requirements were met.
+
+Following the test completition report results, the application can be launched under optimal conditions.
