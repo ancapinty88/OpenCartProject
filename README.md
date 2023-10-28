@@ -68,8 +68,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All business requirements have been met 
 ##### Risks:
 ###### *Project risks* and *Product risks* : 
-<img width="581" alt="Screenshot 2023-10-27 at 18 02 29" src="https://github.com/ancapinty88/OpenCartProject/assets/132688930/e0636e2e-76da-462a-95f0-acdf8fb6f77f">
 
+<img width="795" alt="Screenshot 2023-10-28 at 15 16 04" src="https://github.com/ancapinty88/OpenCartProject/assets/132688930/57018397-11f3-4b54-b9b2-6310416882d3">
 
 <img width="703" alt="Screenshot 2023-10-27 at 17 51 05" src="https://github.com/ancapinty88/OpenCartProject/assets/132688930/40201b54-11b7-4578-a66c-2d8030c49a98">
 
