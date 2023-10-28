@@ -74,7 +74,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 2.2 Test analysis
 - Analyze the business requirements to make sure that we have all the details to create the test conditions 
-- Write test conditions that will be tested in out test process 
+- Write test conditions that will be tested
 
 #### 2.3 Test design
 
