@@ -168,10 +168,15 @@ A test schedule includes the testing steps or tasks, the target start and end da
 | Summary and Report | 20.10.2023 | Anca Pintilie |
 
 ## Conclusions
+
 Total number of Stories: 5
+
 Number of Stories covered by tests: 5
+
 Total number of written Tests: 34
+
 Total number of Tests executed: 34
+
 Number of bugs identified: 3 (2 high severity bugs and 1 bug of medium severity and the user impact - average)
 
 The current results demonstrate a strong effect of the testing process, so the number of unsolved bugs is minimal and does not influence the good functionality of the application.
